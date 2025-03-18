@@ -1,0 +1,31 @@
+{
+  "name": "gkghs_meal",
+  "description": "급식 인스타에 자동화 게시",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.js",
+    "build": "tsc",
+    "dev": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.12",
+    "cron": "^3.1.6",
+    "discord.js": "^14.15.2",
+    "dokdo": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "instagram-private-api": "^1.46.1",
+    "node-cron": "^3.0.3",
+    "request-promise": "^4.2.6",
+    "sunrin-instagram-cli": "^1.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "author": "iamfiro",
+  "license": "BSD 2-Clause",
+  "devDependencies": {
+    "@types/node-cron": "^3.0.11"
+  }
+}

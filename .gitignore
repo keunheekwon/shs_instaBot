@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+ecosystem.config.cjs
+config/config.js
+node_modules/
+package-lock.json
+logs
+/.idea
+/dist
+
+.env
+
+/build
+
+.DS_Store
+=======
+/vscode
+/node_modules
+/config/config.js
+/build
+>>>>>>> eefccd5 (Initial commit)
