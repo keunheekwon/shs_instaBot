@@ -72,7 +72,7 @@ def school_meal():
 
                         font = loadfont(36)
 
-                        date_font_color = 'rgb(71, 122, 255)'
+                        date_font_color = 'rgb(32, 169, 2235)'
                         b = 'rgb(0, 0, 0)'
 
                         text = f'{year}년 {month}월 {day}일 {weekday}요일'
@@ -84,7 +84,7 @@ def school_meal():
                         draw.text((W - 245 - 150, 999), gddg, fill=0x6A6A6A, font=loadfont(36))
                                         
                         meal_font = loadfont(60)
-                        meal_font_color = 'rgb(0, 196, 0)'
+                        meal_font_color = 'rgb(32, 169, 223)'
 
                         text_l = 70
 
@@ -172,7 +172,7 @@ def school_meal2():
 
                         font = loadfont(36)
 
-                        date_font_color = 'rgb(71, 122, 255)'
+                        date_font_color = 'rgb(32, 169, 223)'
                         b = 'rgb(0, 0, 0)'
 
                         text = f'{year}년 {month}월 {day}일 {weekday}요일'
