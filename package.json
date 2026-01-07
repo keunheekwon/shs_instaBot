@@ -1,5 +1,5 @@
 {
-  "name": "gkghs_meal",
+  "name": "shs_meal",
   "description": "급식 인스타에 자동화 게시",
   "version": "1.0.0",
   "main": "index.ts",
